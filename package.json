@@ -8,8 +8,6 @@
     "start": "node dist/server.js",
     "dev": "nodemon dist/server.js"
   },
-  "repository": "git@github.com:Severenit/JsProChat.git",
-  "author": "Zar Zakharov <severenit@gmail.com>",
   "license": "MIT",
   "devDependencies": {
     "fs": "^0.0.1-security",
