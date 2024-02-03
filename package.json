@@ -1,5 +1,5 @@
 {
-  "name": "JsRPGChat",
+  "name": "rpg-chat",
   "version": "1.0.0",
   "main": "dist/server.js",
   "scripts": {
